@@ -24,8 +24,6 @@ int main() {
     list->removeFront();
     list->removeBack();
     list->displayForward();
-
-    list->clear();
     list->displayForward();
 
     delete list;
