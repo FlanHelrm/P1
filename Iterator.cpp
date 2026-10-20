@@ -24,4 +24,4 @@ int Iterator::getValue() const {
 
 Node* Iterator::getNode() const {
     return current;
-}
+} //Komentarz 1
